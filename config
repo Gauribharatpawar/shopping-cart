@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	autocrlf = false
+[remote "origin"]
+	url = https://github.com/Gauribharatpawar/shopping-cart.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
